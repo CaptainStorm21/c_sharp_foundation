@@ -1,0 +1,13 @@
+C:\c#\2-variables_data-types\2-variables_data-types\obj\Debug\netcoreapp3.1\2-variables_data-types.csprojAssemblyReference.cache
+C:\c#\2-variables_data-types\2-variables_data-types\obj\Debug\netcoreapp3.1\2-variables_data-types.AssemblyInfoInputs.cache
+C:\c#\2-variables_data-types\2-variables_data-types\obj\Debug\netcoreapp3.1\2-variables_data-types.AssemblyInfo.cs
+C:\c#\2-variables_data-types\2-variables_data-types\obj\Debug\netcoreapp3.1\2-variables_data-types.csproj.CoreCompileInputs.cache
+C:\c#\2-variables_data-types\2-variables_data-types\bin\Debug\netcoreapp3.1\2-variables_data-types.exe
+C:\c#\2-variables_data-types\2-variables_data-types\bin\Debug\netcoreapp3.1\2-variables_data-types.deps.json
+C:\c#\2-variables_data-types\2-variables_data-types\bin\Debug\netcoreapp3.1\2-variables_data-types.runtimeconfig.json
+C:\c#\2-variables_data-types\2-variables_data-types\bin\Debug\netcoreapp3.1\2-variables_data-types.runtimeconfig.dev.json
+C:\c#\2-variables_data-types\2-variables_data-types\bin\Debug\netcoreapp3.1\2-variables_data-types.dll
+C:\c#\2-variables_data-types\2-variables_data-types\bin\Debug\netcoreapp3.1\2-variables_data-types.pdb
+C:\c#\2-variables_data-types\2-variables_data-types\obj\Debug\netcoreapp3.1\2-variables_data-types.dll
+C:\c#\2-variables_data-types\2-variables_data-types\obj\Debug\netcoreapp3.1\2-variables_data-types.pdb
+C:\c#\2-variables_data-types\2-variables_data-types\obj\Debug\netcoreapp3.1\2-variables_data-types.genruntimeconfig.cache
