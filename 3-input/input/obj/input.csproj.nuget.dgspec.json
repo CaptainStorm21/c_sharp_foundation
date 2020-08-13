@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\c#\\c_sharp_foundation\\2-variables_data-types\\2-variables_data-types\\2-variables_data-types.csproj": {}
+    "C:\\c#\\input\\input\\input.csproj": {}
   },
   "projects": {
-    "C:\\c#\\c_sharp_foundation\\2-variables_data-types\\2-variables_data-types\\2-variables_data-types.csproj": {
+    "C:\\c#\\input\\input\\input.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\c#\\c_sharp_foundation\\2-variables_data-types\\2-variables_data-types\\2-variables_data-types.csproj",
-        "projectName": "2-variables_data-types",
-        "projectPath": "C:\\c#\\c_sharp_foundation\\2-variables_data-types\\2-variables_data-types\\2-variables_data-types.csproj",
+        "projectUniqueName": "C:\\c#\\input\\input\\input.csproj",
+        "projectName": "input",
+        "projectPath": "C:\\c#\\input\\input\\input.csproj",
         "packagesPath": "C:\\Users\\Gennie\\.nuget\\packages\\",
-        "outputPath": "C:\\c#\\c_sharp_foundation\\2-variables_data-types\\2-variables_data-types\\obj\\",
+        "outputPath": "C:\\c#\\input\\input\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
