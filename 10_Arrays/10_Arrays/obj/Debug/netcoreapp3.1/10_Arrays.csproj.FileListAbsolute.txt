@@ -1,0 +1,12 @@
+C:\c#\10_Arrays\10_Arrays\bin\Debug\netcoreapp3.1\10_Arrays.exe
+C:\c#\10_Arrays\10_Arrays\bin\Debug\netcoreapp3.1\10_Arrays.deps.json
+C:\c#\10_Arrays\10_Arrays\bin\Debug\netcoreapp3.1\10_Arrays.runtimeconfig.json
+C:\c#\10_Arrays\10_Arrays\bin\Debug\netcoreapp3.1\10_Arrays.runtimeconfig.dev.json
+C:\c#\10_Arrays\10_Arrays\bin\Debug\netcoreapp3.1\10_Arrays.dll
+C:\c#\10_Arrays\10_Arrays\bin\Debug\netcoreapp3.1\10_Arrays.pdb
+C:\c#\10_Arrays\10_Arrays\obj\Debug\netcoreapp3.1\10_Arrays.AssemblyInfoInputs.cache
+C:\c#\10_Arrays\10_Arrays\obj\Debug\netcoreapp3.1\10_Arrays.AssemblyInfo.cs
+C:\c#\10_Arrays\10_Arrays\obj\Debug\netcoreapp3.1\10_Arrays.csproj.CoreCompileInputs.cache
+C:\c#\10_Arrays\10_Arrays\obj\Debug\netcoreapp3.1\10_Arrays.dll
+C:\c#\10_Arrays\10_Arrays\obj\Debug\netcoreapp3.1\10_Arrays.pdb
+C:\c#\10_Arrays\10_Arrays\obj\Debug\netcoreapp3.1\10_Arrays.genruntimeconfig.cache
