@@ -1,0 +1,13 @@
+C:\c#\Conditions\Conditions\bin\Debug\netcoreapp3.1\Conditions.exe
+C:\c#\Conditions\Conditions\bin\Debug\netcoreapp3.1\Conditions.deps.json
+C:\c#\Conditions\Conditions\bin\Debug\netcoreapp3.1\Conditions.runtimeconfig.json
+C:\c#\Conditions\Conditions\bin\Debug\netcoreapp3.1\Conditions.runtimeconfig.dev.json
+C:\c#\Conditions\Conditions\bin\Debug\netcoreapp3.1\Conditions.dll
+C:\c#\Conditions\Conditions\bin\Debug\netcoreapp3.1\Conditions.pdb
+C:\c#\Conditions\Conditions\obj\Debug\netcoreapp3.1\Conditions.csprojAssemblyReference.cache
+C:\c#\Conditions\Conditions\obj\Debug\netcoreapp3.1\Conditions.AssemblyInfoInputs.cache
+C:\c#\Conditions\Conditions\obj\Debug\netcoreapp3.1\Conditions.AssemblyInfo.cs
+C:\c#\Conditions\Conditions\obj\Debug\netcoreapp3.1\Conditions.csproj.CoreCompileInputs.cache
+C:\c#\Conditions\Conditions\obj\Debug\netcoreapp3.1\Conditions.dll
+C:\c#\Conditions\Conditions\obj\Debug\netcoreapp3.1\Conditions.pdb
+C:\c#\Conditions\Conditions\obj\Debug\netcoreapp3.1\Conditions.genruntimeconfig.cache
