@@ -1,0 +1,13 @@
+C:\c#\4-input-output-survey\4-input-output-survey\bin\Debug\netcoreapp3.1\4-input-output-survey.exe
+C:\c#\4-input-output-survey\4-input-output-survey\bin\Debug\netcoreapp3.1\4-input-output-survey.deps.json
+C:\c#\4-input-output-survey\4-input-output-survey\bin\Debug\netcoreapp3.1\4-input-output-survey.runtimeconfig.json
+C:\c#\4-input-output-survey\4-input-output-survey\bin\Debug\netcoreapp3.1\4-input-output-survey.runtimeconfig.dev.json
+C:\c#\4-input-output-survey\4-input-output-survey\bin\Debug\netcoreapp3.1\4-input-output-survey.dll
+C:\c#\4-input-output-survey\4-input-output-survey\bin\Debug\netcoreapp3.1\4-input-output-survey.pdb
+C:\c#\4-input-output-survey\4-input-output-survey\obj\Debug\netcoreapp3.1\4-input-output-survey.csprojAssemblyReference.cache
+C:\c#\4-input-output-survey\4-input-output-survey\obj\Debug\netcoreapp3.1\4-input-output-survey.AssemblyInfoInputs.cache
+C:\c#\4-input-output-survey\4-input-output-survey\obj\Debug\netcoreapp3.1\4-input-output-survey.AssemblyInfo.cs
+C:\c#\4-input-output-survey\4-input-output-survey\obj\Debug\netcoreapp3.1\4-input-output-survey.csproj.CoreCompileInputs.cache
+C:\c#\4-input-output-survey\4-input-output-survey\obj\Debug\netcoreapp3.1\4-input-output-survey.dll
+C:\c#\4-input-output-survey\4-input-output-survey\obj\Debug\netcoreapp3.1\4-input-output-survey.pdb
+C:\c#\4-input-output-survey\4-input-output-survey\obj\Debug\netcoreapp3.1\4-input-output-survey.genruntimeconfig.cache
