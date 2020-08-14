@@ -1,0 +1,12 @@
+C:\c#\13-functions-return-value\13-functions-return-value\bin\Debug\netcoreapp3.1\13-functions-return-value.exe
+C:\c#\13-functions-return-value\13-functions-return-value\bin\Debug\netcoreapp3.1\13-functions-return-value.deps.json
+C:\c#\13-functions-return-value\13-functions-return-value\bin\Debug\netcoreapp3.1\13-functions-return-value.runtimeconfig.json
+C:\c#\13-functions-return-value\13-functions-return-value\bin\Debug\netcoreapp3.1\13-functions-return-value.runtimeconfig.dev.json
+C:\c#\13-functions-return-value\13-functions-return-value\bin\Debug\netcoreapp3.1\13-functions-return-value.dll
+C:\c#\13-functions-return-value\13-functions-return-value\bin\Debug\netcoreapp3.1\13-functions-return-value.pdb
+C:\c#\13-functions-return-value\13-functions-return-value\obj\Debug\netcoreapp3.1\13-functions-return-value.AssemblyInfoInputs.cache
+C:\c#\13-functions-return-value\13-functions-return-value\obj\Debug\netcoreapp3.1\13-functions-return-value.AssemblyInfo.cs
+C:\c#\13-functions-return-value\13-functions-return-value\obj\Debug\netcoreapp3.1\13-functions-return-value.csproj.CoreCompileInputs.cache
+C:\c#\13-functions-return-value\13-functions-return-value\obj\Debug\netcoreapp3.1\13-functions-return-value.dll
+C:\c#\13-functions-return-value\13-functions-return-value\obj\Debug\netcoreapp3.1\13-functions-return-value.pdb
+C:\c#\13-functions-return-value\13-functions-return-value\obj\Debug\netcoreapp3.1\13-functions-return-value.genruntimeconfig.cache
