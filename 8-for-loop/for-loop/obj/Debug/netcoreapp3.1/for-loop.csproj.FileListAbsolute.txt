@@ -1,0 +1,12 @@
+C:\c#\for-loop\for-loop\bin\Debug\netcoreapp3.1\for-loop.exe
+C:\c#\for-loop\for-loop\bin\Debug\netcoreapp3.1\for-loop.deps.json
+C:\c#\for-loop\for-loop\bin\Debug\netcoreapp3.1\for-loop.runtimeconfig.json
+C:\c#\for-loop\for-loop\bin\Debug\netcoreapp3.1\for-loop.runtimeconfig.dev.json
+C:\c#\for-loop\for-loop\bin\Debug\netcoreapp3.1\for-loop.dll
+C:\c#\for-loop\for-loop\bin\Debug\netcoreapp3.1\for-loop.pdb
+C:\c#\for-loop\for-loop\obj\Debug\netcoreapp3.1\for-loop.AssemblyInfoInputs.cache
+C:\c#\for-loop\for-loop\obj\Debug\netcoreapp3.1\for-loop.AssemblyInfo.cs
+C:\c#\for-loop\for-loop\obj\Debug\netcoreapp3.1\for-loop.csproj.CoreCompileInputs.cache
+C:\c#\for-loop\for-loop\obj\Debug\netcoreapp3.1\for-loop.dll
+C:\c#\for-loop\for-loop\obj\Debug\netcoreapp3.1\for-loop.pdb
+C:\c#\for-loop\for-loop\obj\Debug\netcoreapp3.1\for-loop.genruntimeconfig.cache
