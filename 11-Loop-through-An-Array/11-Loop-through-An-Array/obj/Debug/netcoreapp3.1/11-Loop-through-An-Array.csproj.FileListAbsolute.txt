@@ -1,0 +1,12 @@
+C:\c#\11-Loop-through-An-Array\11-Loop-through-An-Array\bin\Debug\netcoreapp3.1\11-Loop-through-An-Array.exe
+C:\c#\11-Loop-through-An-Array\11-Loop-through-An-Array\bin\Debug\netcoreapp3.1\11-Loop-through-An-Array.deps.json
+C:\c#\11-Loop-through-An-Array\11-Loop-through-An-Array\bin\Debug\netcoreapp3.1\11-Loop-through-An-Array.runtimeconfig.json
+C:\c#\11-Loop-through-An-Array\11-Loop-through-An-Array\bin\Debug\netcoreapp3.1\11-Loop-through-An-Array.runtimeconfig.dev.json
+C:\c#\11-Loop-through-An-Array\11-Loop-through-An-Array\bin\Debug\netcoreapp3.1\11-Loop-through-An-Array.dll
+C:\c#\11-Loop-through-An-Array\11-Loop-through-An-Array\bin\Debug\netcoreapp3.1\11-Loop-through-An-Array.pdb
+C:\c#\11-Loop-through-An-Array\11-Loop-through-An-Array\obj\Debug\netcoreapp3.1\11-Loop-through-An-Array.AssemblyInfoInputs.cache
+C:\c#\11-Loop-through-An-Array\11-Loop-through-An-Array\obj\Debug\netcoreapp3.1\11-Loop-through-An-Array.AssemblyInfo.cs
+C:\c#\11-Loop-through-An-Array\11-Loop-through-An-Array\obj\Debug\netcoreapp3.1\11-Loop-through-An-Array.csproj.CoreCompileInputs.cache
+C:\c#\11-Loop-through-An-Array\11-Loop-through-An-Array\obj\Debug\netcoreapp3.1\11-Loop-through-An-Array.dll
+C:\c#\11-Loop-through-An-Array\11-Loop-through-An-Array\obj\Debug\netcoreapp3.1\11-Loop-through-An-Array.pdb
+C:\c#\11-Loop-through-An-Array\11-Loop-through-An-Array\obj\Debug\netcoreapp3.1\11-Loop-through-An-Array.genruntimeconfig.cache
