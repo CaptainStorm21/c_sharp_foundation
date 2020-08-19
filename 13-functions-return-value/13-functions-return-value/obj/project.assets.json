@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\c#\\13-functions-return-value\\13-functions-return-value\\13-functions-return-value.csproj",
+      "projectUniqueName": "C:\\c#\\c_sharp_foundation\\13-functions-return-value\\13-functions-return-value\\13-functions-return-value.csproj",
       "projectName": "13-functions-return-value",
-      "projectPath": "C:\\c#\\13-functions-return-value\\13-functions-return-value\\13-functions-return-value.csproj",
+      "projectPath": "C:\\c#\\c_sharp_foundation\\13-functions-return-value\\13-functions-return-value\\13-functions-return-value.csproj",
       "packagesPath": "C:\\Users\\Gennie\\.nuget\\packages\\",
-      "outputPath": "C:\\c#\\13-functions-return-value\\13-functions-return-value\\obj\\",
+      "outputPath": "C:\\c#\\c_sharp_foundation\\13-functions-return-value\\13-functions-return-value\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
