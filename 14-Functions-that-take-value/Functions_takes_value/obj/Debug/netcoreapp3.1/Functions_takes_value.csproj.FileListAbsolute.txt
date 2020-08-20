@@ -1,0 +1,13 @@
+C:\c#\Functions_takes_value\Functions_takes_value\bin\Debug\netcoreapp3.1\Functions_takes_value.exe
+C:\c#\Functions_takes_value\Functions_takes_value\bin\Debug\netcoreapp3.1\Functions_takes_value.deps.json
+C:\c#\Functions_takes_value\Functions_takes_value\bin\Debug\netcoreapp3.1\Functions_takes_value.runtimeconfig.json
+C:\c#\Functions_takes_value\Functions_takes_value\bin\Debug\netcoreapp3.1\Functions_takes_value.runtimeconfig.dev.json
+C:\c#\Functions_takes_value\Functions_takes_value\bin\Debug\netcoreapp3.1\Functions_takes_value.dll
+C:\c#\Functions_takes_value\Functions_takes_value\bin\Debug\netcoreapp3.1\Functions_takes_value.pdb
+C:\c#\Functions_takes_value\Functions_takes_value\obj\Debug\netcoreapp3.1\Functions_takes_value.csprojAssemblyReference.cache
+C:\c#\Functions_takes_value\Functions_takes_value\obj\Debug\netcoreapp3.1\Functions_takes_value.AssemblyInfoInputs.cache
+C:\c#\Functions_takes_value\Functions_takes_value\obj\Debug\netcoreapp3.1\Functions_takes_value.AssemblyInfo.cs
+C:\c#\Functions_takes_value\Functions_takes_value\obj\Debug\netcoreapp3.1\Functions_takes_value.csproj.CoreCompileInputs.cache
+C:\c#\Functions_takes_value\Functions_takes_value\obj\Debug\netcoreapp3.1\Functions_takes_value.dll
+C:\c#\Functions_takes_value\Functions_takes_value\obj\Debug\netcoreapp3.1\Functions_takes_value.pdb
+C:\c#\Functions_takes_value\Functions_takes_value\obj\Debug\netcoreapp3.1\Functions_takes_value.genruntimeconfig.cache
