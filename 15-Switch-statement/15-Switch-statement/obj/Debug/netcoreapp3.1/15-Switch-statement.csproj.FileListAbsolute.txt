@@ -1,0 +1,12 @@
+C:\c#\15-Switch-statement\15-Switch-statement\obj\Debug\netcoreapp3.1\15-Switch-statement.AssemblyInfoInputs.cache
+C:\c#\15-Switch-statement\15-Switch-statement\obj\Debug\netcoreapp3.1\15-Switch-statement.AssemblyInfo.cs
+C:\c#\15-Switch-statement\15-Switch-statement\obj\Debug\netcoreapp3.1\15-Switch-statement.csproj.CoreCompileInputs.cache
+C:\c#\15-Switch-statement\15-Switch-statement\bin\Debug\netcoreapp3.1\15-Switch-statement.exe
+C:\c#\15-Switch-statement\15-Switch-statement\bin\Debug\netcoreapp3.1\15-Switch-statement.deps.json
+C:\c#\15-Switch-statement\15-Switch-statement\bin\Debug\netcoreapp3.1\15-Switch-statement.runtimeconfig.json
+C:\c#\15-Switch-statement\15-Switch-statement\bin\Debug\netcoreapp3.1\15-Switch-statement.runtimeconfig.dev.json
+C:\c#\15-Switch-statement\15-Switch-statement\bin\Debug\netcoreapp3.1\15-Switch-statement.dll
+C:\c#\15-Switch-statement\15-Switch-statement\bin\Debug\netcoreapp3.1\15-Switch-statement.pdb
+C:\c#\15-Switch-statement\15-Switch-statement\obj\Debug\netcoreapp3.1\15-Switch-statement.dll
+C:\c#\15-Switch-statement\15-Switch-statement\obj\Debug\netcoreapp3.1\15-Switch-statement.pdb
+C:\c#\15-Switch-statement\15-Switch-statement\obj\Debug\netcoreapp3.1\15-Switch-statement.genruntimeconfig.cache
