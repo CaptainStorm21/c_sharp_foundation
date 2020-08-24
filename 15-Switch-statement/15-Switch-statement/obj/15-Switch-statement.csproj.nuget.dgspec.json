@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\c#\\15-Switch-statement\\15-Switch-statement\\15-Switch-statement.csproj": {}
+    "C:\\c#\\c_sharp_foundation\\15-Switch-statement\\15-Switch-statement\\15-Switch-statement.csproj": {}
   },
   "projects": {
-    "C:\\c#\\15-Switch-statement\\15-Switch-statement\\15-Switch-statement.csproj": {
+    "C:\\c#\\c_sharp_foundation\\15-Switch-statement\\15-Switch-statement\\15-Switch-statement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\c#\\15-Switch-statement\\15-Switch-statement\\15-Switch-statement.csproj",
+        "projectUniqueName": "C:\\c#\\c_sharp_foundation\\15-Switch-statement\\15-Switch-statement\\15-Switch-statement.csproj",
         "projectName": "15-Switch-statement",
-        "projectPath": "C:\\c#\\15-Switch-statement\\15-Switch-statement\\15-Switch-statement.csproj",
+        "projectPath": "C:\\c#\\c_sharp_foundation\\15-Switch-statement\\15-Switch-statement\\15-Switch-statement.csproj",
         "packagesPath": "C:\\Users\\Gennie\\.nuget\\packages\\",
-        "outputPath": "C:\\c#\\15-Switch-statement\\15-Switch-statement\\obj\\",
+        "outputPath": "C:\\c#\\c_sharp_foundation\\15-Switch-statement\\15-Switch-statement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

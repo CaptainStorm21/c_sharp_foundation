@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4HkmBkNmmTnkKLDiOWEb1Wj9xO8JCbU4X+XrAwqst65TrbShDMUeZUvv3doxqFi2E6SsozkMPtC64UOHimKmEA==",
+  "dgSpecHash": "HAZV/VxpEVJaDqeLDbFP0GHBMCowd7fKq26t2NH5ApqPhJBNHU/OY/g8KOMzqLTzEfmatYzsMTdv1VZbYO3FcA==",
   "success": true,
-  "projectFilePath": "C:\\c#\\15-Switch-statement\\15-Switch-statement\\15-Switch-statement.csproj",
+  "projectFilePath": "C:\\c#\\c_sharp_foundation\\15-Switch-statement\\15-Switch-statement\\15-Switch-statement.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\c#\\c_sharp_foundation\\16-Student-Manager\\16-Student-Manager\\16-Student-Manager.csproj",
-      "projectName": "16-Student-Manager",
-      "projectPath": "C:\\c#\\c_sharp_foundation\\16-Student-Manager\\16-Student-Manager\\16-Student-Manager.csproj",
+      "projectUniqueName": "C:\\c#\\17-Collections\\17-Collections\\17-Collections.csproj",
+      "projectName": "17-Collections",
+      "projectPath": "C:\\c#\\17-Collections\\17-Collections\\17-Collections.csproj",
       "packagesPath": "C:\\Users\\Gennie\\.nuget\\packages\\",
-      "outputPath": "C:\\c#\\c_sharp_foundation\\16-Student-Manager\\16-Student-Manager\\obj\\",
+      "outputPath": "C:\\c#\\17-Collections\\17-Collections\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
