@@ -1,0 +1,13 @@
+C:\c#\18-object-oriented\18-object-oriented\bin\Debug\netcoreapp3.1\18-object-oriented.exe
+C:\c#\18-object-oriented\18-object-oriented\bin\Debug\netcoreapp3.1\18-object-oriented.deps.json
+C:\c#\18-object-oriented\18-object-oriented\bin\Debug\netcoreapp3.1\18-object-oriented.runtimeconfig.json
+C:\c#\18-object-oriented\18-object-oriented\bin\Debug\netcoreapp3.1\18-object-oriented.runtimeconfig.dev.json
+C:\c#\18-object-oriented\18-object-oriented\bin\Debug\netcoreapp3.1\18-object-oriented.dll
+C:\c#\18-object-oriented\18-object-oriented\bin\Debug\netcoreapp3.1\18-object-oriented.pdb
+C:\c#\18-object-oriented\18-object-oriented\obj\Debug\netcoreapp3.1\18-object-oriented.csprojAssemblyReference.cache
+C:\c#\18-object-oriented\18-object-oriented\obj\Debug\netcoreapp3.1\18-object-oriented.AssemblyInfoInputs.cache
+C:\c#\18-object-oriented\18-object-oriented\obj\Debug\netcoreapp3.1\18-object-oriented.AssemblyInfo.cs
+C:\c#\18-object-oriented\18-object-oriented\obj\Debug\netcoreapp3.1\18-object-oriented.csproj.CoreCompileInputs.cache
+C:\c#\18-object-oriented\18-object-oriented\obj\Debug\netcoreapp3.1\18-object-oriented.dll
+C:\c#\18-object-oriented\18-object-oriented\obj\Debug\netcoreapp3.1\18-object-oriented.pdb
+C:\c#\18-object-oriented\18-object-oriented\obj\Debug\netcoreapp3.1\18-object-oriented.genruntimeconfig.cache
