@@ -1,0 +1,12 @@
+C:\c#\22-namespace\22-namespace\bin\Debug\netcoreapp3.1\22-namespace.exe
+C:\c#\22-namespace\22-namespace\bin\Debug\netcoreapp3.1\22-namespace.deps.json
+C:\c#\22-namespace\22-namespace\bin\Debug\netcoreapp3.1\22-namespace.runtimeconfig.json
+C:\c#\22-namespace\22-namespace\bin\Debug\netcoreapp3.1\22-namespace.runtimeconfig.dev.json
+C:\c#\22-namespace\22-namespace\bin\Debug\netcoreapp3.1\22-namespace.dll
+C:\c#\22-namespace\22-namespace\bin\Debug\netcoreapp3.1\22-namespace.pdb
+C:\c#\22-namespace\22-namespace\obj\Debug\netcoreapp3.1\22-namespace.AssemblyInfoInputs.cache
+C:\c#\22-namespace\22-namespace\obj\Debug\netcoreapp3.1\22-namespace.AssemblyInfo.cs
+C:\c#\22-namespace\22-namespace\obj\Debug\netcoreapp3.1\22-namespace.csproj.CoreCompileInputs.cache
+C:\c#\22-namespace\22-namespace\obj\Debug\netcoreapp3.1\22-namespace.dll
+C:\c#\22-namespace\22-namespace\obj\Debug\netcoreapp3.1\22-namespace.pdb
+C:\c#\22-namespace\22-namespace\obj\Debug\netcoreapp3.1\22-namespace.genruntimeconfig.cache
