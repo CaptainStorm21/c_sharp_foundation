@@ -1,0 +1,13 @@
+C:\c#\19-encapsulation\19-encapsulation\obj\Debug\netcoreapp3.1\19-encapsulation.csprojAssemblyReference.cache
+C:\c#\19-encapsulation\19-encapsulation\obj\Debug\netcoreapp3.1\19-encapsulation.AssemblyInfoInputs.cache
+C:\c#\19-encapsulation\19-encapsulation\obj\Debug\netcoreapp3.1\19-encapsulation.AssemblyInfo.cs
+C:\c#\19-encapsulation\19-encapsulation\obj\Debug\netcoreapp3.1\19-encapsulation.csproj.CoreCompileInputs.cache
+C:\c#\19-encapsulation\19-encapsulation\bin\Debug\netcoreapp3.1\19-encapsulation.exe
+C:\c#\19-encapsulation\19-encapsulation\bin\Debug\netcoreapp3.1\19-encapsulation.deps.json
+C:\c#\19-encapsulation\19-encapsulation\bin\Debug\netcoreapp3.1\19-encapsulation.runtimeconfig.json
+C:\c#\19-encapsulation\19-encapsulation\bin\Debug\netcoreapp3.1\19-encapsulation.runtimeconfig.dev.json
+C:\c#\19-encapsulation\19-encapsulation\bin\Debug\netcoreapp3.1\19-encapsulation.dll
+C:\c#\19-encapsulation\19-encapsulation\bin\Debug\netcoreapp3.1\19-encapsulation.pdb
+C:\c#\19-encapsulation\19-encapsulation\obj\Debug\netcoreapp3.1\19-encapsulation.dll
+C:\c#\19-encapsulation\19-encapsulation\obj\Debug\netcoreapp3.1\19-encapsulation.pdb
+C:\c#\19-encapsulation\19-encapsulation\obj\Debug\netcoreapp3.1\19-encapsulation.genruntimeconfig.cache
