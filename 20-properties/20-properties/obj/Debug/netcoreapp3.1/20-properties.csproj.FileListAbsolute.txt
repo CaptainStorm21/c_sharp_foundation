@@ -1,0 +1,13 @@
+C:\c#\20-properties\20-properties\obj\Debug\netcoreapp3.1\20-properties.csprojAssemblyReference.cache
+C:\c#\20-properties\20-properties\obj\Debug\netcoreapp3.1\20-properties.AssemblyInfoInputs.cache
+C:\c#\20-properties\20-properties\obj\Debug\netcoreapp3.1\20-properties.AssemblyInfo.cs
+C:\c#\20-properties\20-properties\obj\Debug\netcoreapp3.1\20-properties.csproj.CoreCompileInputs.cache
+C:\c#\20-properties\20-properties\bin\Debug\netcoreapp3.1\20-properties.exe
+C:\c#\20-properties\20-properties\bin\Debug\netcoreapp3.1\20-properties.deps.json
+C:\c#\20-properties\20-properties\bin\Debug\netcoreapp3.1\20-properties.runtimeconfig.json
+C:\c#\20-properties\20-properties\bin\Debug\netcoreapp3.1\20-properties.runtimeconfig.dev.json
+C:\c#\20-properties\20-properties\bin\Debug\netcoreapp3.1\20-properties.dll
+C:\c#\20-properties\20-properties\bin\Debug\netcoreapp3.1\20-properties.pdb
+C:\c#\20-properties\20-properties\obj\Debug\netcoreapp3.1\20-properties.dll
+C:\c#\20-properties\20-properties\obj\Debug\netcoreapp3.1\20-properties.pdb
+C:\c#\20-properties\20-properties\obj\Debug\netcoreapp3.1\20-properties.genruntimeconfig.cache
