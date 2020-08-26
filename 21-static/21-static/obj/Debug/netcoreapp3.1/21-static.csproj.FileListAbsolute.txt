@@ -1,0 +1,13 @@
+C:\c#\21-static\21-static\bin\Debug\netcoreapp3.1\21-static.exe
+C:\c#\21-static\21-static\bin\Debug\netcoreapp3.1\21-static.deps.json
+C:\c#\21-static\21-static\bin\Debug\netcoreapp3.1\21-static.runtimeconfig.json
+C:\c#\21-static\21-static\bin\Debug\netcoreapp3.1\21-static.runtimeconfig.dev.json
+C:\c#\21-static\21-static\bin\Debug\netcoreapp3.1\21-static.dll
+C:\c#\21-static\21-static\bin\Debug\netcoreapp3.1\21-static.pdb
+C:\c#\21-static\21-static\obj\Debug\netcoreapp3.1\21-static.csprojAssemblyReference.cache
+C:\c#\21-static\21-static\obj\Debug\netcoreapp3.1\21-static.AssemblyInfoInputs.cache
+C:\c#\21-static\21-static\obj\Debug\netcoreapp3.1\21-static.AssemblyInfo.cs
+C:\c#\21-static\21-static\obj\Debug\netcoreapp3.1\21-static.csproj.CoreCompileInputs.cache
+C:\c#\21-static\21-static\obj\Debug\netcoreapp3.1\21-static.dll
+C:\c#\21-static\21-static\obj\Debug\netcoreapp3.1\21-static.pdb
+C:\c#\21-static\21-static\obj\Debug\netcoreapp3.1\21-static.genruntimeconfig.cache
